@@ -1,6 +1,6 @@
 # the-first
 hi,小伙伴们，今天是我第一天学前端的日子，心情很激动～～
-<titie>
+<title>
   mynotebook
 </title>
 <head>
